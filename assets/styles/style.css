@@ -1,0 +1,14 @@
+
+body * {
+    font-family: sans-serif;
+}
+
+.flex {
+    display: flex;
+}
+.grid {
+    display: grid;
+}
+.grid__col-6 {
+    grid-template-columns: 1fr 1fr;
+}
